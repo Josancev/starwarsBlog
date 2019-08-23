@@ -34,3 +34,9 @@ export class Layout extends React.Component {
 }
 
 export default injectStore(Layout);
+
+//npm install --save react-router-dom
+//npx create-react-app xxxxxx
+//npm install bootstrap
+//npm install node-sass
+//npm install react-webpack
